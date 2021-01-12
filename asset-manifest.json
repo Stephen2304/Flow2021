@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flow2021/static/css/main.495ffc20.chunk.css",
+    "main.js": "/flow2021/static/js/main.ef886380.chunk.js",
+    "main.js.map": "/flow2021/static/js/main.ef886380.chunk.js.map",
+    "runtime-main.js": "/flow2021/static/js/runtime-main.6cc2b4a5.js",
+    "runtime-main.js.map": "/flow2021/static/js/runtime-main.6cc2b4a5.js.map",
+    "static/js/2.fa90f74d.chunk.js": "/flow2021/static/js/2.fa90f74d.chunk.js",
+    "static/js/2.fa90f74d.chunk.js.map": "/flow2021/static/js/2.fa90f74d.chunk.js.map",
+    "static/js/3.914c9939.chunk.js": "/flow2021/static/js/3.914c9939.chunk.js",
+    "static/js/3.914c9939.chunk.js.map": "/flow2021/static/js/3.914c9939.chunk.js.map",
+    "index.html": "/flow2021/index.html",
+    "static/css/main.495ffc20.chunk.css.map": "/flow2021/static/css/main.495ffc20.chunk.css.map",
+    "static/js/2.fa90f74d.chunk.js.LICENSE.txt": "/flow2021/static/js/2.fa90f74d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cc2b4a5.js",
+    "static/js/2.fa90f74d.chunk.js",
+    "static/css/main.495ffc20.chunk.css",
+    "static/js/main.ef886380.chunk.js"
+  ]
+}
